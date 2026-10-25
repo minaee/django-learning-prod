@@ -1,13 +1,13 @@
 # Personal Finance & Learning Log
 
-> A full-stack web application built with Django and React — deployed on a Linux server.
+> A full-stack web application built with Django and React.
 
 [![Python](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-6.x-092E20?style=flat&logo=django&logoColor=white)](https://djangoproject.com)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
-🌐 **Live Demo:** [http://minaee.duckdns.org](http://minaee.duckdns.org)
+
 
 ---
 
